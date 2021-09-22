@@ -19,7 +19,7 @@ const useHttp = () => {
       }
 
       const data = await response.json();
-      applyDataFunc(data);
+      applyDataFunc(data); // this becomes createTask in NewTask.js
     } catch (err) {
       setError(err.message || "Something went wrong!");
     }
