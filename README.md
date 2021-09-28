@@ -1,4 +1,4 @@
-# Dave's TaskManager ( _React_CustomHooksApp_ )
+# TaskManager ( _React_CustomHooksApp_ )
 
 ### Overview
 _Dave's TaskManager_ is my a pure React app that is just that, a "Task Manager". I used [Google Firebase API](https://firebase.google.com/) to persist the tasks data to and from the backend / database. I built this for fun while teaching myself React and how to make _Custom Hooks_.
